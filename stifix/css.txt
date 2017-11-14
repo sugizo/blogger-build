@@ -1,0 +1,122 @@
+#Attribution1 {display: none;}
+
+/*----- stifix Contact Us Form ----*/
+
+.contact-form-name, .contact-form-email { 
+	max-width: 200px; 
+	width: 100%; 
+} 
+
+.contact-form-email-message { 
+	max-width: 400px; 
+	width: 100%; 
+	height: 150px; 
+}
+
+/*----- stifix Drop Down Menu ----*/
+
+#stifix-navbar { 
+	background: Aqua; 
+	color: Snow; 
+	margin: 0px; 
+	padding: 0; 
+	position: relative; 
+	border-top:0px solid #960100; 
+	height:35px;
+}
+
+#stifix-nav { 
+	margin: 0; 
+	padding: 0; 
+} 
+
+#stifix-nav ul { 
+	float: left; 
+	list-style: none; 
+	margin: 0; 
+	padding: 0; 
+} 
+
+#stifix-nav li { 
+	list-style: none; 
+	margin: 0; 
+	padding: 0; 
+	border-left:0px solid #333; 
+	border-right:0px solid #333; 
+	height:35px; 
+} 
+
+#stifix-nav li a, #stifix-nav li a:link, #stifix-nav li a:visited { 
+	color: Snow; 
+	display: block; 
+	font:normal 12px Helvetica, sans-serif;
+	margin: 0; 
+	padding: 10px 12px 10px 12px; 
+	text-decoration: none; 
+} 
+
+#stifix-nav li a:hover, #stifix-nav li a:active { 
+	background: RoyalBlue; 
+	color: Snow; 
+	display: block; 
+	text-decoration: none; 
+	margin: 0; 
+	padding: 10px 12px 10px 12px;
+}
+
+#stifix-nav li { 
+	float: left; 
+	padding: 0; 
+} 
+
+#stifix-nav li ul { 
+	z-index: 9999; 
+	position: absolute; 
+	left: -999em; 
+	height: auto; 
+	width: 160px; 
+	margin: 0; 
+	padding: 0; 
+} 
+
+#stifix-nav li ul a { 
+	width: 140px; 
+} 
+
+#stifix-nav li ul ul { 
+	margin: -25px 0 0 161px; 
+} 
+
+#stifix-nav li:hover ul ul, #stifix-nav li:hover ul ul ul, #stifix-nav li.sfhover ul ul, #stifix-nav li.sfhover ul ul ul { 
+	left: -999em; 
+} 
+
+#stifix-nav li:hover ul, #stifix-nav li li:hover ul, #stifix-nav li li li:hover ul, #stifix-nav li.sfhover ul, #stifix-nav li li.sfhover ul, #stifix-nav li li li.sfhover ul { 
+	left: auto; 
+} 
+
+#stifix-nav li:hover, #stifix-nav li.sfhover { 
+	position: static; 
+}
+
+#stifix-nav li li a, #stifix-nav li li a:link, #stifix-nav li li a:visited { 
+	background: Turquoise; 
+	width: 120px; 
+	color: Snow; 
+	display: block; 
+	font:normal 12px Helvetica, sans-serif; 
+	margin: 0; 
+	padding: 10px 12px 10px 12px; 
+	text-decoration: none; 
+	z-index:9999; 
+	border-bottom:0px dotted #333;
+} 
+
+#stifix-nav li li a:hover, #stifix-navli li a:active { 
+	background: SkyBlue; 
+	color: Snow; 
+	display: block;
+	margin: 0; 
+	padding: 10px 12px 10px 12px; 
+	text-decoration: none; 
+}

@@ -1,0 +1,59 @@
+<div id='stifix-navbar'>
+	<ul id='stifix-nav'>
+		<li>
+			<a href='http://stifankristi.blogspot.com/p/home.html'>Home</a>
+		</li>
+		<li>
+			<a href='http://stifankristi.blogspot.com/search/label/News'>News</a>
+		</li>
+		<li>
+			<a href='#'>Solutions</a>
+			<ul>
+				<li>
+					<a href='http://stifankristi.blogspot.com/p/linux.html'>Linux</a>
+				</li>
+				<li>
+					<a href='http://stifankristi.blogspot.com/p/unix.html'>Unix</a>
+				</li>
+				<li>
+					<a href='http://stifankristi.blogspot.com/p/windows.html'>Windows</a>
+				</li>
+				<li>
+					<a href='http://stifankristi.blogspot.com/p/virtualization.html'>Virtualization</a>
+				</li>
+				<li>
+					<a href='http://stifankristi.blogspot.com/p/cloud-computing.html'>Cloud Computing</a>
+				</li>
+				<li>
+					<a href='http://stifankristi.blogspot.com/p/mobile.html'>Mobile</a>
+				</li>
+				<li>
+					<a href='http://stifankristi.blogspot.com/p/web-development.html'>Web Development</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href='#'>Services</a>
+			<ul>
+				<li>
+					<a href='http://stifankristi.blogspot.com/p/installation.html'>Installation</a>
+				</li>
+				<li>
+					<a href='http://stifankristi.blogspot.com/p/upgrade.html'>Upgrade</a>
+				</li>
+				<li>
+					<a href='http://stifankristi.blogspot.com/p/maintenance.html'>Maintenance</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href='http://stifankristi.blogspot.com/search/label/Demo'>Demo</a>
+		</li>
+		<li>
+			<a href='http://stifankristi.blogspot.com/p/about-us.html'>About Us</a>
+		</li>
+		<li>
+			<a href='http://stifankristi.blogspot.com/p/contact-us.html'>Contact Us</a>
+		</li>
+	</ul>
+</div>
